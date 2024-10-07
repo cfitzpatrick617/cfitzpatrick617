@@ -1,13 +1,6 @@
-<div align="center">
-  <h3>Calum Fitzpatrick</h3>
-  <img src=https://github.com/user-attachments/assets/0441c0db-acb4-4c9c-acc6-274d34406265 width=140></img>
-  <h3>Software Engineering Student based in the UK.</h3>
-</div>
+<h1>Hi there, I'm Calum Fitzpatrick 👋</h1>
 
-<h3 align="left">Profile</h3>
-<p align="left">Hi there. 👋</p>
-<p>I am a 2nd year MEng Software Engineering Student at Queen's University Belfast and a hobbyist game developer.</p>
-<p>On my GitHub you'll find past coursework and small-scale game projects.</p>
+<p>2nd year MEng Software Engineering Student at Queen's University Belfast and a hobbyist game developer.</p>
 
 <h3 align="left">Notable Projects</h3>
 <ul>
