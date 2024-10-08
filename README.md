@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Calum Fitzpatrick 👋</h1>
 
-<p>2nd year MEng Software Engineering Student at Queen's University Belfast and a hobbyist game developer.</p>
+<p>I'm a 2nd year MEng Software Engineering Student at Queen's University Belfast and a hobbyist game developer.</p>
 
 <h3 align="left">Notable Projects</h3>
 <ul>
