@@ -5,7 +5,8 @@
 <h3 align="left">Notable Projects</h3>
 <ul>
   <li><a href="https://github.com/cfitzpatrick617/mini-game-of-life" target="_blank">Conway's Game of Life in Godot 🎮</a></li>
-  <li><a href="https://github.com/cfitzpatrick617/mini-game-of-life" target="_blank">Medieval Carnival Shooter Webgame 🎯</a></li>
+  <li><a href="https://github.com/cfitzpatrick617/medieval-shooter-webgame" target="_blank">Medieval Carnival Shooter Webgame 🎯</a></li>
+  <li><a href="https://github.com/cfitzpatrick617/employment-agency-db" target="_blank">Employment Agency Database using MySQL 💼</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools</h3>
