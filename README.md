@@ -7,7 +7,7 @@
   <li><a href="https://github.com/cfitzpatrick617/mini-game-of-life" target="_blank">Conway's Game of Life in Godot 🎮</a></li>
   <li><a href="https://github.com/cfitzpatrick617/medieval-shooter-webgame" target="_blank">Medieval Carnival Shooter Webgame 🎯</a></li>
   <li><a href="https://github.com/cfitzpatrick617/employment-agency-db" target="_blank">Employment Agency Database using MySQL 💼</a></li>
-  <li><a href="https://github.com/cfitzpatrick617/sudoku-solver" target="_blank">Classic 9x9 Sudoku Solver 🧩</a></li>
+  <li><a href="https://github.com/cfitzpatrick617/sudoku_solver" target="_blank">Classic 9x9 Sudoku Solver 🧩</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools</h3>
